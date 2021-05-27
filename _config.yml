@@ -69,3 +69,5 @@ local_search:
 
 # Favicon
 #favicon: /image/favicon.ico
+
+theme: jekyll-theme-hacker
